@@ -16,49 +16,49 @@
   <tr>
     <td align="center" width="96">
       <a href="#favorite-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech">
-        <img src="./img/go-flat.svg" width="322" height="48" alt="Golang" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Go
     </td>
         <td align="center" width="96">
       <a href="#favorite-tech">
-        <img src="./img/elixir-logo.svg" width="48" height="48" alt="Elixir" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Elixir
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech">
-        <img src="./img/tailwind-logo.svg" width="48" height="48" alt="Tailwind" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Tailwind
     </td>
     <td align="center" width="96">
       <a href="#streetxH">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Sass
     </td>
@@ -66,55 +66,55 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#favorite-tech" >
-        <img src="./img/laravel-logo.svg" width="48" height="48" alt="Laravel" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Laravel
     </td>
     <td align="center" width="96"> 
       <a href="#favorite-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech" >
-        <img src="./img/kubernetes-logo.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Kubernetes
     </td>
     <td align="center"  width="96">
       <a href="#favorite-tech">
-        <img src="./img/ubuntu-logo.svg" width="48" height="48" alt="Ubuntu" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Ubuntu
     </td>
     <td align="center"  width="96">
       <a href="#favorite-tech">
-        <img src="./img/nodejs-logo.svg" width="48" height="48" alt="NodeJS" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>NodeJS
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech">
-        <img src="./img/socket-io-logo.svg" width="48" height="48" alt="Socket.IO" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Socket.IO
     </td>
     <td align="center"  width="96">
       <a href="#favorite-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech" >
-        <img src="./img/mongodb-logo.svg" width="48" height="48" alt="MongoDB" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>MongoDB
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech" >
-        <img src="./img/aws-logo.svg" width="48" height="48" alt="AWS" />
+        <img src="img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>AWS
     </td>
