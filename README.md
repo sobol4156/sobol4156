@@ -16,12 +16,6 @@
   <tr>
     <td align="center" width="96">
       <a href="#favorite-tech">
-        <img src="./img/php-logo.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP&nbsp;v8+
-    </td>
-    <td align="center" width="96">
-      <a href="#favorite-tech">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
@@ -127,7 +121,6 @@
   </tr>
 </table>
 
-![GitHub contribution grid snake animation](https://raw.githubusercontent.com/sobol4156/github-contributions/output/github-contribution-grid-snake-dark.svg)
 
 
 
