@@ -4,7 +4,7 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=E0EFF7&random=false&width=435&lines=Frontend+Developer%3A+React%2FVue%2FJS" alt="Typing SVG" /></a>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sobol4156&theme=dark)
+
 
 <div style="display:flex;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sobol4156&theme=dark" />
