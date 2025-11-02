@@ -87,17 +87,17 @@
       </a>
       <br>NodeJS
     </td>
+   <td align="center"  width="96">
+      <a href="#favorite-tech">
+        <img src="img/rxjs.svg" width="48" height="48" alt="RxJs" />
+      </a>
+      <br>RxJs
+    </td>
     <td align="center"  width="96">
       <a href="#favorite-tech">
         <img src="img/ubuntu.svg" width="48" height="48" alt="Ubuntu" />
       </a>
       <br>Ubuntu
-    </td>
-        <td align="center"  width="96">
-      <a href="#favorite-tech">
-        <img src="img/rxjs.svg" width="48" height="48" alt="RxJs" />
-      </a>
-      <br>RxJs
     </td>
     <td align="center"  width="96">
       <a href="#favorite-tech">
@@ -111,6 +111,7 @@
       </a>
       <br>Django
     </td>
+
   </tr>
 </table>
 
