@@ -1,13 +1,22 @@
-### - ⚡ Hi there, I'm Alex 👋 and I...
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1&pause=200000000&color=F798B7&background=FFFFFF00&repeat=false&width=450&lines=%E2%9A%A1+Hi+there%2C+I'm+Alex+%F0%9F%91%8B+and+I..." alt="Typing SVG" /></a>
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=E0EFF7&random=false&width=435&lines=Frontend+Developer%3A+React%2FVue%2FJS" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=2000&color=F798B7&background=FFFFFF00&vCenter=true&width=800&height=40&lines=Frontend+Developer%3A+React%2FVue%2FAngular" alt="Typing SVG" /></a>
 
 <div style="display:flex;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sobol4156&theme=dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sobol4156&theme=dark" />
 </div>
 
-## 🚀 My Technology
+<p></p>
+
+<div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=1&pause=200000000&color=F798B7&background=FFFFFF00&vCenter=true&repeat=false&width=450&height=40&lines=%F0%9F%9A%80+My+Technology" alt="Typing SVG" />
+  </a>
+</div>
 
 <table>
   <tr>
