@@ -6,8 +6,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=2000&color=F798B7&background=FFFFFF00&vCenter=true&width=800&height=40&lines=Frontend+Developer%3A+React%2FVue%2FAngular" alt="Typing SVG" /></a>
 
 <div style="display:flex;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sobol4156&theme=dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sobol4156&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sobol4156&theme=omni" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sobol4156&theme=omni" />
 </div>
 
 <p></p>
