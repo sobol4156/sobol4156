@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: sobol4156
-          outputs: dist/snake.svg dist/snake-dark.svg?palette=github-dark
+          outputs: dist/snake.svg?palette=github-light&color_snake=#F798B7&color_dots=#F48FB1
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
