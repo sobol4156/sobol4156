@@ -124,6 +124,6 @@
   </tr>
 </table>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/sobol4156/sobol4156/output/snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/sobol4156/sobol4156/output/snake.svg#gh-light-mode-only)
 
+
+<img src="img/github-user-contribution.svg" />
