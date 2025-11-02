@@ -1,10 +1,6 @@
+### - ⚡ Hi there, I'm Alex 👋 and I...
 
-### - ⚡ Hi there, I'm Alex 👋 and I... 
-
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=E0EFF7&random=false&width=435&lines=Frontend+Developer%3A+React%2FVue%2FJS" alt="Typing SVG" /></a>
-
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=E0EFF7&random=false&width=435&lines=Frontend+Developer%3A+React%2FVue%2FJS" alt="Typing SVG" /></a>
 
 <div style="display:flex;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sobol4156&theme=dark" />
@@ -39,6 +35,13 @@
       </a>
       <br>Vue
       </td>
+          </td>
+       <td align="center"  width="96">
+      <a href="#favorite-tech">
+        <img src="img/angular.svg" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Angular
+      </td>
         <td align="center" width="96">
       <a href="#favorite-tech" >
         <img src="img/vite.svg" width="48" height="48" alt="Vite" />
@@ -57,7 +60,6 @@
       </a>
       <br>Nuxt
     </td>
-
 
   </tr>
   <tr>
@@ -87,9 +89,15 @@
     </td>
     <td align="center"  width="96">
       <a href="#favorite-tech">
-        <img src="img/ubuntu.svg" width="48" height="48" alt="JavaScript" />
+        <img src="img/ubuntu.svg" width="48" height="48" alt="Ubuntu" />
       </a>
       <br>Ubuntu
+    </td>
+        <td align="center"  width="96">
+      <a href="#favorite-tech">
+        <img src="img/rxjs.svg" width="48" height="48" alt="RxJs" />
+      </a>
+      <br>RxJs
     </td>
     <td align="center"  width="96">
       <a href="#favorite-tech">
@@ -106,9 +114,4 @@
   </tr>
 </table>
 
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
-
-
